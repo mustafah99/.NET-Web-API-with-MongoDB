@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{53872886-BC42-4955-AC0C-F19CA616A13E}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookStoreAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookStoreAPI/Models/Book.cs">
+    <Files>
+      <File FileName="BookStoreAPI/Program.cs" Line="14" Column="79" />
+      <File FileName="BookStoreAPI/Models/Book.cs" Line="15" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookStoreAPI" expanded="True" selected="True">
+            <Node name="BookStoreAPI" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
